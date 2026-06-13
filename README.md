@@ -23,7 +23,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/chieffearo/gdl.git 
+   git clone https://github.com/EmadNik/gdl.git 
    cd gdl
    ```
 
