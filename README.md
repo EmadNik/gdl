@@ -73,8 +73,6 @@ The script uses the following libraries:
 - `yt-dlp`
 - `tkinter`
 
-These libraries are automatically installed when you run the `install_dependencies.py` script.
-
 ## License
 
 This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for details.
