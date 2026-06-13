@@ -86,7 +86,7 @@ you can download porn video with this script
    ```
 # one line install
 ```bash
-git clone https://github.com/chieffearo/gdl.git && cd gdl && pip install -r requirements.txt && python gdl.py
+git clone https://github.com/EmadNik/gdl.git && cd gdl && pip install -r requirements.txt && python gdl.py
 ```
 
 #### GDLM is coming soon 
