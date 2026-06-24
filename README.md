@@ -78,7 +78,6 @@ The script uses the following libraries:
 This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for details.
 ## Use
 
-you can download porn video with this script
    ```bash
    python gdl.py -o <video URL>
    ```
